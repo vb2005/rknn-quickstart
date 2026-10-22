@@ -18,3 +18,10 @@ numpy<=1.26.4
 onnx>=1.16.1,<=1.18.0
 onnxruntime>=1.17.0
 torch>=1.13.1,<=2.2.0
+
+# rknn
+rknn_toolkit2-2.5.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
+rknn_toolkit_lite2-2.5.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
+
+# spi
+spidev
